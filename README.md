@@ -12,14 +12,6 @@ An OpenAPI documentation is in development at the moment to give a clear view of
 - Working with JSON data
 - Using Scraperapi.com
 
-## Screenshots
-
-Sample JSON response - products/:productId endpoint
-
-![JSON response](https://raw.githubusercontent.com/hellodun/info-scraper/main/response_screenshot/scraper%20json%20resopnse.png)
-
----
-
 ## Run Locally
 
 Clone the project
@@ -45,6 +37,14 @@ Start the server
 ```bash
   npm run dev
 ```
+
+---
+
+## Screenshots
+
+Sample JSON response - products/:productId endpoint
+
+![JSON response](https://raw.githubusercontent.com/hellodun/info-scraper/main/response_screenshot/scraper%20json%20resopnse.png)
 
 ## License
 
